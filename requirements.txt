@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+rank-bm25
+chromadb
+faiss-cpu
+sentence-transformers
+streamlit
+fastapi
+uvicorn
